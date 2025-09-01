@@ -25,7 +25,9 @@ $ whoami
 <div align="center">
 
 ![Doka Group](https://custom-icon-badges.demolab.com/badge/Doka_Group-004588?logo=logo_house_doka_blue&logoColor=ffdd00&style=for-the-badge)
+![Doka Group](https://custom-icon-badges.demolab.com/badge/Doka_Group-ffdd00?logo=logo_house_doka_yellow&logoColor=004588&style=for-the-badge)
 ![Umdasch Group](https://custom-icon-badges.demolab.com/badge/Umdasch_Group-0C2340?logo=logo_house_ug_blue&logoColor=E0E718&style=for-the-badge)
+![Umdasch Group](https://custom-icon-badges.demolab.com/badge/Umdasch_Group-E0E718?logo=logo_house_ug_lime&logoColor=0C2340&style=for-the-badge)
 
 </div>
 
