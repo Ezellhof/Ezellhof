@@ -3,7 +3,7 @@
 <div align="center">
   
   <!-- Dynamic Typing Headline -->
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=FFDD00&background=004588&center=true&vCenter=true&multiline=true&width=900&height=120&lines=Welcome+to+my+GitHub+Profile!;Operations+Systems+%26+Support+Specialist;%40+Doka+Group+-+Formwork+%26+Scaffolding;Building+the+Future+of+Construction!)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=FFDD00&background=004588&center=true&vCenter=true&multiline=true&width=900&height=120&lines=Welcome+to+my+GitHub+Profile!;Operations+Systems+Support%26+Specialist;%40+Doka+Group+-+Formwork+%26+Scaffolding;Building+the+Future+of+Construction!)](https://git.io/typing-svg)
 
 </div>
 
