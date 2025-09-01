@@ -23,10 +23,9 @@ $ whoami
 └── 💡 Vision: Innovation in construction technology
 ```
 <div align="center">
-  
-  <!-- Large Company Banners -->
-  
-  <img width="450" src="https://img.shields.io/badge/%F0%9F%8F%A2%20UMDASCH%20GROUP-Building%20the%20Future%20Since%201868-0C2340?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPCEtLSBVbWRhc2NoIEhvdXNlIEljb24gLS0+CjxwYXRoIGQ9Ik0zIDIxSDIxTDIxIDNIM1YyMVoiIGZpbGw9IiNFMEU3MjEiIGZpbGwtb3BhY2l0eT0iMC4yIi8+CjxwYXRoIGQ9Ik01IDZMMTkgNkwxOSAxOEw1IDE4VjZaIiBmaWxsPSIjMEMyMzQwIi8+CjxwYXRoIGQ9Ik03IDhMMTcgOEwxNyAxNkw3IDE2VjhaIiBmaWxsPSIjRTBFNzIxIi8+CjxwYXRoIGQ9Ik05IDEwTDE1IDEwTDE1IDE0TDkgMTRWMTBaIiBmaWxsPSIjMEMyMzQwIi8+Cjwvc3ZnPgo=&labelColor=E0E721" />
+
+![Doka Group](https://custom-icon-badges.demolab.com/badge/Doka_Group-004588?logo=logo_house_doka_blue&logoColor=ffdd00&style=for-the-badge)
+![Umdasch Group](https://custom-icon-badges.demolab.com/badge/Umdasch_Group-0C2340?logo=logo_house_ug_blue&logoColor=E0E718&style=for-the-badge)
 
 </div>
 
