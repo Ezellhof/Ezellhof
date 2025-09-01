@@ -35,9 +35,7 @@ $ whoami
 ## 🛠️ Tech Stack & Tools
 
 <div align="center">
-
-![Blackhole Banner](https://ishan-rest.vercel.app/svg/banner/blackhole/IshanOshada)
-
+  
 ### 💻 Operating Systems & Infrastructure
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
@@ -133,8 +131,8 @@ $ whoami
 <div align="center">
   
   **Thanks for visiting my profile! 🙏**
-  
-  ![Wave](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg)
+
+  ![Github Banner](https://ishan-rest.vercel.app/svg/banner/github)
   
   [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=2000&pause=1000&color=004588&center=true&vCenter=true&width=700&lines=Formwork+%26+Scaffolding+-+We+make+it+work!;Operations+Systems+%26+Support+Specialist;Building+construction+excellence+worldwide!+%F0%9F%8F%97%EF%B8%8F)](https://git.io/typing-svg)
 
