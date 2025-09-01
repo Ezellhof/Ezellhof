@@ -25,9 +25,6 @@ $ whoami
 <div align="center">
   
   <!-- Large Company Banners -->
-  <img width="400" src="https://img.shields.io/badge/🏗️%20DOKA%20GROUP-Formwork%20%26%20Scaffolding%20Solutions-004588?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHJlY3Qgd2lkdGg9IjI0IiBoZWlnaHQ9IjI0IiBmaWxsPSIjRkZERDAwIiByeD0iMiIvPgo8cGF0aCBkPSJNNCA2SDE2VjhINFY2WiIgZmlsbD0iIzAwNDU4OCIvPgo8cGF0aCBkPSJNNiA5SDE4VjExSDZWOVoiIGZpbGw9IiMwMDQ1ODgiLz4KPHA+="ZD0iTTQgMTJIMTZWMTRINFYxMloiIGZpbGw9IiMwMDQ1ODgiLz4KPHA>="ZD0iTTYgMTVIMThWMTdINlYxNVoiIGZpbGw9IiMwMDQ1ODgiLz4KPHA>="ZD0iTTQgMThIMTZWMjBINFYxOFoiIGZpbGw9IiMwMDQ1ODgiLz4KPC9zdmc+Cg==&labelColor=FFDD00" />
-  
-  <br/>
   
   <img width="450" src="https://img.shields.io/badge/%F0%9F%8F%A2%20UMDASCH%20GROUP-Building%20the%20Future%20Since%201868-0C2340?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPCEtLSBVbWRhc2NoIEhvdXNlIEljb24gLS0+CjxwYXRoIGQ9Ik0zIDIxSDIxTDIxIDNIM1YyMVoiIGZpbGw9IiNFMEU3MjEiIGZpbGwtb3BhY2l0eT0iMC4yIi8+CjxwYXRoIGQ9Ik01IDZMMTkgNkwxOSAxOEw1IDE4VjZaIiBmaWxsPSIjMEMyMzQwIi8+CjxwYXRoIGQ9Ik03IDhMMTcgOEwxNyAxNkw3IDE2VjhaIiBmaWxsPSIjRTBFNzIxIi8+CjxwYXRoIGQ9Ik05IDEwTDE1IDEwTDE1IDE0TDkgMTRWMTBaIiBmaWxsPSIjMEMyMzQwIi8+Cjwvc3ZnPgo=&labelColor=E0E721" />
 
