@@ -107,7 +107,9 @@ $ whoami
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/erik-zellhofer-k1999?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:erik.zellhofer@doka.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ezellhof)
-[![Doka Website](https://img.shields.io/badge/🏗️%20Doka%20Group-004588?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHJlY3Qgd2lkdGg9IjI0IiBoZWlnaHQ9IjI0IiBmaWxsPSIjRkZERDAwIi8+CjxwYXRoIGQ9Ik02IDZIMThWOEg2VjZaIiBmaWxsPSIjMDA0NTg4Ii8+CjxwYXRoIGQ9Ik02IDEwSDE4VjEySDZWMTBaIiBmaWxsPSIjMDA0NTg4Ii8+CjxwYXRoIGQ9Ik02IDE0SDE4VjE2SDZWMTRaIiBmaWxsPSIjMDA0NTg4Ii8+Cjwvc3ZnPgo=&labelColor=FFDD00)](https://www.doka.com)
+[![Doka Website](https://img.shields.io/badge/🏗️%20Doka%20Group-004588?)logo=logo_house_doka_blue&logoColor=ffdd00&style=for-the-badge)](https://www.doka.com)
+
+![Doka Group](https://custom-icon-badges.demolab.com/badge/Doka_Group-004588?logo=logo_house_doka_blue&logoColor=ffdd00&style=for-the-badge)
 
 </div>
 
