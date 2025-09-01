@@ -87,13 +87,6 @@ $ whoami
 
 ---
 
-## 🎬 Terminal Demo - Operations Systems & Support
-
-```bash
-```
-
----
-
 ## 🎯 Current Focus Areas
 
 <div align="center">
@@ -125,13 +118,6 @@ $ whoami
 
 ---
 
-## 🌍 What I Do at Doka
-
-```typescript
-```
-
----
-
 ## 📫 Let's Connect!
 
 <div align="center">
@@ -144,12 +130,6 @@ $ whoami
 </div>
 
 ---
-
-## 💡 Fun Facts & Interests
-
-```bash
-
-```
 
 ---
 
@@ -164,6 +144,28 @@ $ whoami
 </div>
 
 ---
+
+## 💡 Fun Facts & Interests
+
+```bash
+```
+
+---
+
+## 🎬 Terminal Demo - Operations Systems & Support
+
+```bash
+```
+
+---
+
+## 🌍 What I Do at Doka
+
+```typescript
+```
+
+---
+
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=004588&height=100&section=footer&text=&fontSize=16&fontColor=FFDD00&animation=twinkling&fontAlignY=35&desc=Doka%20Group%20-%20Building%20the%20Future!&descAlignY=51&descAlign=center" width="100%">
