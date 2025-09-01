@@ -73,15 +73,15 @@ $ whoami
 
 <div align="center">
   
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&bg_color=004588&title_color=FFDD00&text_color=ffffff&icon_color=FFDD00&border_color=FFDD00" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ezellhof&show_icons=true&theme=radical&bg_color=004588&title_color=FFDD00&text_color=ffffff&icon_color=FFDD00&border_color=FFDD00" />
   
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical&bg_color=004588&title_color=FFDD00&text_color=ffffff&border_color=FFDD00" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ezellhof&layout=compact&theme=radical&bg_color=004588&title_color=FFDD00&text_color=ffffff&border_color=FFDD00" />
 
 </div>
 
 <div align="center">
   
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical&background=004588&stroke=FFDD00&ring=FFDD00&fire=FFDD00&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=FFDD00&sideLabels=ffffff&dates=ffffff)](https://git.io/streak-stats)
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ezellhof&theme=radical&background=004588&stroke=FFDD00&ring=FFDD00&fire=FFDD00&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=FFDD00&sideLabels=ffffff&dates=ffffff)](https://git.io/streak-stats)
 
 </div>
 
@@ -91,9 +91,9 @@ $ whoami
 
 <div align="center">
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=doka-operations-dashboard&theme=radical&bg_color=004588&title_color=FFDD00&text_color=ffffff&icon_color=FFDD00&border_color=FFDD00)](https://github.com/YOUR_USERNAME/doka-operations-dashboard)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Ezellhof&repo=doka-operations-dashboard&theme=radical&bg_color=004588&title_color=FFDD00&text_color=ffffff&icon_color=FFDD00&border_color=FFDD00)](https://github.com/Ezellhof/doka-operations-dashboard)
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=formwork-systems-optimizer&theme=radical&bg_color=004588&title_color=FFDD00&text_color=ffffff&icon_color=FFDD00&border_color=FFDD00)](https://github.com/YOUR_USERNAME/formwork-systems-optimizer)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Ezellhof&repo=formwork-systems-optimizer&theme=radical&bg_color=004588&title_color=FFDD00&text_color=ffffff&icon_color=FFDD00&border_color=FFDD00)](https://github.com/Ezellhof/formwork-systems-optimizer)
 
 </div>
 
@@ -120,7 +120,7 @@ $ whoami
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_USERNAME)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ezellhof)
 [![Doka Website](https://img.shields.io/badge/🏗️%20Doka%20Group-004588?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHJlY3Qgd2lkdGg9IjI0IiBoZWlnaHQ9IjI0IiBmaWxsPSIjRkZERDAwIi8+CjxwYXRoIGQ9Ik02IDZIMThWOEg2VjZaIiBmaWxsPSIjMDA0NTg4Ii8+CjxwYXRoIGQ9Ik02IDEwSDE4VjEySDZWMTBaIiBmaWxsPSIjMDA0NTg4Ii8+CjxwYXRoIGQ9Ik02IDE0SDE4VjE2SDZWMTRaIiBmaWxsPSIjMDA0NTg4Ii8+Cjwvc3ZnPgo=&labelColor=FFDD00)](https://www.doka.com)
 
 </div>
