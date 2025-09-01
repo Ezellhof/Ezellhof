@@ -80,14 +80,10 @@ $ whoami
 <div align="center">
   
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ezellhof&show_icons=true&theme=radical&bg_color=004588&title_color=FFDD00&text_color=ffffff&icon_color=FFDD00&border_color=FFDD00" />
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ezellhof&theme=radical&background=004588&stroke=FFDD00&ring=FFDD00&fire=FFDD00&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=FFDD00&sideLabels=ffffff&dates=ffffff)](https://git.io/streak-stats)
   
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ezellhof&layout=compact&theme=radical&bg_color=004588&title_color=FFDD00&text_color=ffffff&border_color=FFDD00" />
-
-</div>
-
-<div align="center">
-  
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ezellhof&theme=radical&background=004588&stroke=FFDD00&ring=FFDD00&fire=FFDD00&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=FFDD00&sideLabels=ffffff&dates=ffffff)](https://git.io/streak-stats)
 
 </div>
 
