@@ -90,43 +90,6 @@ $ whoami
 ## 🎬 Terminal Demo - Operations Systems & Support
 
 ```bash
-┌─[doka-specialist@operations-systems]─[~/workspace]
-└──╼ $ ./doka-operations-toolkit.sh --initialize
-╭─────────────────────────────────────────────────────────────╮
-│  🏗️  DOKA Operations Systems & Support Toolkit v3.2        │
-│  🔧 Optimizing construction operations worldwide...         │
-│     "Formwork & Scaffolding. We make it work."            │
-╰─────────────────────────────────────────────────────────────╯
-
-[INFO] Initializing Doka Global Operations Network...
-[✓] SAP Production System... CONNECTED
-[✓] Global Logistics Network... OPERATIONAL  
-[✓] Formwork Inventory Management... SYNCHRONIZED
-[✓] Quality Control Systems... ACTIVE
-[✓] Construction Site Monitoring... LIVE
-
-┌─[doka-specialist@operations-systems]─[~/workspace]
-└──╼ $ systemctl status doka-formwork-optimizer.service
-● doka-formwork-optimizer.service - Doka Formwork Operations Optimizer
-   Loaded: loaded (/etc/systemd/system/doka-formwork-optimizer.service; enabled)
-   Active: active (running) since Mon 2025-01-01 08:00:00 CET; 8h 32min ago
-   
-🔄 Processing 160+ global facilities...
-📊 Optimizing formwork solutions efficiency... 97.3%
-🌍 Supporting construction projects in 60+ countries
-🎯 System uptime: 99.8% | Operations excellence achieved!
-
-┌─[doka-specialist@operations-systems]─[~/workspace]  
-└──╼ $ doka-screenshot-tool --capture-operations-dashboard
-📸 Capturing Doka Operations Excellence...
-🏗️ Formwork systems performance... OPTIMAL
-📈 Global operations metrics... CONSOLIDATED
-🔧 Support systems status... ALL GREEN
-✨ "Innovation in construction technology!" 
-
-┌─[doka-specialist@operations-systems]─[~/workspace]
-└──╼ $ echo "Building the future, one formwork solution at a time! 🚀"
-Building the future, one formwork solution at a time! 🚀
 ```
 
 ---
@@ -166,34 +129,6 @@ Building the future, one formwork solution at a time! 🚀
 ## 🌍 What I Do at Doka
 
 ```typescript
-interface DokaSpecialist {
-  department: "Operations";
-  team: "Operations Systems & Support";
-  responsibilities: {
-    systemsOptimization: "Enhancing operational efficiency across global network";
-    processImprovement: "Streamlining formwork and scaffolding operations";
-    technicalSupport: "Supporting 160+ facilities in 60+ countries";
-    dataAnalysis: "Optimizing construction technology solutions";
-    qualityAssurance: "Ensuring excellence in formwork systems";
-  };
-  expertise: [
-    "Formwork Technology Systems",
-    "Global Operations Support", 
-    "Construction Site Optimization",
-    "SAP Operations Management",
-    "Process Automation"
-  ];
-  impact: {
-    global_reach: "60+ countries supported",
-    facilities: "160+ sales & logistics centers",
-    mission: "Making formwork & scaffolding work worldwide"
-  };
-}
-
-const myRole: DokaSpecialist = {
-  passion: "Building the future of construction technology! 🏗️",
-  motto: "Innovation in every concrete pour, excellence in every project!"
-};
 ```
 
 ---
@@ -214,29 +149,7 @@ const myRole: DokaSpecialist = {
 ## 💡 Fun Facts & Interests
 
 ```bash
-# About my work at Doka Group 🏗️
-$ cat ~/.doka/specialist.conf
-───────────────────────────────────────
-Location: Austria 🇦🇹
-Company: Doka Group (World leader in formwork & scaffolding)
-Parent: Umdasch Group (150+ years of excellence)
-Industry: Construction Technology & Innovation
-Department: Operations
-Team: Systems & Support
 
-# What drives me
-Passion: ["Construction Technology", "Operations Excellence", "System Optimization"]
-Expertise: ["Formwork Solutions", "Global Operations", "Process Innovation"]  
-Current_Focus: ["Digital Transformation", "Operational Efficiency", "Quality Systems"]
-
-# Fun facts
-Global_Impact: "Supporting construction projects worldwide 🌍"
-Innovation_Mission: "Making formwork & scaffolding work everywhere!"
-Daily_Goal: "Optimizing operations for 7,000+ Doka colleagues globally"
-Motto: "From Burj Khalifa to local buildings - we make it work! 🚀"
-───────────────────────────────────────
-
-echo "Building tomorrow's world, today! 🏗️✨"
 ```
 
 ---
