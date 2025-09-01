@@ -127,8 +127,6 @@ $ whoami
 
 ---
 
----
-
 <div align="center">
   
   **Thanks for visiting my profile! 🙏**
@@ -139,6 +137,14 @@ $ whoami
 
 </div>
 
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=004588&height=100&section=footer&text=&fontSize=16&fontColor=FFDD00&animation=twinkling&fontAlignY=35&desc=Doka%20Group%20-%20Building%20the%20Future!&descAlignY=51&descAlign=center" width="100%">
+</div>
+
+
+---
 ---
 
 ## 💡 Fun Facts & Interests
@@ -162,7 +168,3 @@ $ whoami
 
 ---
 
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=004588&height=100&section=footer&text=&fontSize=16&fontColor=FFDD00&animation=twinkling&fontAlignY=35&desc=Doka%20Group%20-%20Building%20the%20Future!&descAlignY=51&descAlign=center" width="100%">
-</div>
