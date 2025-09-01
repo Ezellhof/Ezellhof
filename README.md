@@ -110,8 +110,6 @@ $ whoami
 
 <!-- Animated Professional Badges -->
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Tools" width="25" height="25" />
-<img src="https://img.shields.io/badge/Operations%20Specialist-004588?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPGNpcmNsZSBjeD0iMTIiIGN5PSIxMiIgcj0iMTAiIGZpbGw9IiNGRkREMDAiLz4KPHBhdGggZD0iTTggMTJMMTEgMTVMMTYgOSIgc3Ryb2tlPSIjMDA0NTg4IiBzdHJva2Utd2lkdGg9IjIiIGZpbGw9Im5vbmUiLz4KPC9zdmc+Cg==&labelColor=FFDD00" />
-<img src="https://img.shields.io/badge/Systems%20%26%20Support%20Pro-004588?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTEyIDJMMTMuMDkgOC4yNkwyMCA5TDEzLjA5IDE1Ljc0TDEyIDIyTDEwLjkxIDE1Ljc0TDQgOUwxMC45MSA4LjI2TDEyIDJaIiBzdHJva2U9IiNGRkREMDAiIHN0cm9rZS13aWR0aD0iMiIgZmlsbD0ibm9uZSIvPgo8L3N2Zz4K&labelColor=FFDD00" />
 
 </div>
 
@@ -133,10 +131,8 @@ $ whoami
 <div align="center">
   
   **Thanks for visiting my profile! 🙏**
-
-  ![Github Banner](https://ishan-rest.vercel.app/svg/banner/github)
   
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=2000&pause=1000&color=004588&center=true&vCenter=true&width=700&lines=Formwork+%26+Scaffolding+-+We+make+it+work!;Operations+Systems+%26+Support+Specialist;Building+construction+excellence+worldwide!+%F0%9F%8F%97%EF%B8%8F)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=2000&pause=1000&color=004588&center=true&vCenter=true&width=700&lines=Formwork+%26+Scaffolding+-+We+make+it+work!)
 
 </div>
 
