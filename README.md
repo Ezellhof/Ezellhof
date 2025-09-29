@@ -24,11 +24,11 @@
 
 ```bash
 $ whoami
-├── 👨‍💼 Role: Specialist - Operations Systems & Support
+├── 👨‍💼 Role: Operations Employee HQ - Operations Systems & Support
 ├── 🏢 Company: Doka Group (Part of Umdasch Group)
-├── 🌍 Industry: Construction Technology & Formwork Solutions
+├── 🏬 Department: DG/OP/OPS/OSS
 ├── 🎯 Focus: Operational Excellence & System Optimization
-├── 📍 HQ: Amstetten, Austria
+├── 📍 Work location: CS-AUT-Amstetten
 ├── 🌐 Global Reach: 160+ facilities in 60+ countries
 ├── 🚀 Mission: Making formwork & scaffolding work worldwide
 └── 💡 Vision: Innovation in construction technology
