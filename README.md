@@ -49,51 +49,7 @@ $ whoami
 ![SAP](https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)
 ![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
 ![SharePoint](https://img.shields.io/badge/SharePoint-0078D4?style=for-the-badge&logo=microsoft-sharepoint&logoColor=white)
-
-<svg xmlns="http://www.w3.org/2000/svg" width="220" height="40" viewBox="0 0 220 40">
-  <defs>
-    <linearGradient id="yellowTriangle" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#FFD23F;stop-opacity:1" />
-      <stop offset="50%" style="stop-color:#FFA726;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#FF8F00;stop-opacity:1" />
-    </linearGradient>
-    <linearGradient id="blueTriangle" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#42A5F5;stop-opacity:1" />
-      <stop offset="50%" style="stop-color:#1E88E5;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#1565C0;stop-opacity:1" />
-    </linearGradient>
-    <linearGradient id="greenTriangle" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#66BB6A;stop-opacity:1" />
-      <stop offset="50%" style="stop-color:#43A047;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#2E7D32;stop-opacity:1" />
-    </linearGradient>
-  </defs>
-  
-  <!-- Ugly gray background like MS software -->
-  <rect width="220" height="40" rx="3" ry="3" fill="#E1E1E1" stroke="#ADADAD" stroke-width="1"/>
-  <rect x="1" y="1" width="218" height="38" rx="2" ry="2" fill="#F0F0F0"/>
-  
-  <!-- Logo section background -->
-  <rect x="4" y="4" width="45" height="32" rx="2" ry="2" fill="#FFFFFF" stroke="#C7C7C7" stroke-width="1"/>
-  
-  <!-- Recreate the Microsoft Dynamics logo geometry -->
-  <!-- Yellow triangle (leftmost) -->
-  <path d="M8 30 L8 12 L22 12 Z" fill="url(#yellowTriangle)" stroke="#E68900" stroke-width="0.5"/>
-  
-  <!-- Blue triangle (middle) -->  
-  <path d="M16 30 L16 10 L32 10 Z" fill="url(#blueTriangle)" stroke="#0D47A1" stroke-width="0.5"/>
-  
-  <!-- Green triangle (rightmost) -->
-  <path d="M24 30 L24 8 L42 8 Z" fill="url(#greenTriangle)" stroke="#1B5E20" stroke-width="0.5"/>
-  
-  <!-- Overlapping transparent sections for depth -->
-  <path d="M16 30 L16 12 L22 12 Z" fill="url(#blueTriangle)" opacity="0.7"/>
-  <path d="M24 30 L24 10 L32 10 Z" fill="url(#greenTriangle)" opacity="0.7"/>
-  
-  <!-- Microsoft Dynamics AX text -->
-  <text x="58" y="16" font-family="Segoe UI, Tahoma, Arial, sans-serif" font-size="12" font-weight="400" fill="#333333">Microsoft</text>
-  <text x="58" y="30" font-family="Segoe UI, Tahoma, Arial, sans-serif" font-size="12" font-weight="600" fill="#333333">Dynamics AX</text>
-</svg>
+![Microsoft Dynamics AX Badge](AX2009_GH_Badge.svg)
 
 ### 💾 Databases & Analytics
 ![SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
