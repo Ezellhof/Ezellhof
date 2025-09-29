@@ -36,6 +36,17 @@ $ whoami
 
 ---
 
+## 🎯 Current Focus Areas
+
+<div align="center">
+
+[![DOKA-ScreenShotTool](https://github-readme-stats.vercel.app/api/pin/?username=Ezellhof&repo=doka-screenshottool&theme=radical&bg_color=004588&title_color=FFDD00&text_color=ffffff&icon_color=FFDD00&border_color=FFDD00)](https://github.com/Ezellhof/DOKA-ScreenShotTool)
+
+</div>
+
+---
+
+
 ## 🛠️ Tech Stack & Tools
 
 <div align="center">
@@ -62,16 +73,6 @@ $ whoami
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ezellhof&theme=radical&background=004588&stroke=FFDD00&ring=FFDD00&fire=FFDD00&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=FFDD00&sideLabels=ffffff&dates=ffffff)](https://git.io/streak-stats)
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ezellhof&layout=compact&theme=radical&bg_color=004588&title_color=FFDD00&text_color=ffffff&border_color=FFDD00" />
-
-</div>
-
----
-
-## 🎯 Current Focus Areas
-
-<div align="center">
-
-[![DOKA-ScreenShotTool](https://github-readme-stats.vercel.app/api/pin/?username=Ezellhof&repo=doka-screenshottool&theme=radical&bg_color=004588&title_color=FFDD00&text_color=ffffff&icon_color=FFDD00&border_color=FFDD00)](https://github.com/Ezellhof/DOKA-ScreenShotTool)
 
 </div>
 
