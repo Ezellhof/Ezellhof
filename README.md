@@ -95,6 +95,6 @@ $ whoami
   
   **Thanks for visiting my profile! 🙏**
   
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=2000&pause=1000&color=004588&center=true&vCenter=true&width=700&lines=Formwork+%26+Scaffolding+-+We+make+it+work!)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2000&pause=1000&color=004588&center=true&vCenter=true&width=700&lines=Formwork+%26+Scaffolding+-+We+make+it+work!)
 
 </div>
