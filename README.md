@@ -27,8 +27,8 @@ $ whoami
 ├── 👨‍💼 Role: Operations Employee HQ - Operations Systems & Support
 ├── 🏢 Company: Doka Group (Part of Umdasch Group)
 ├── 🏬 Department: DG/OP/OPS/OSS
-├── 🎯 Focus: Operational Excellence & System Optimization
 ├── 📍 Work location: CS-AUT-Amstetten
+├── 🎯 Focus: Automation & System Optimizatio
 ├── 🌐 Global Reach: 160+ facilities in 60+ countries
 ├── 🚀 Mission: Making formwork & scaffolding work worldwide
 └── 💡 Vision: Innovation in construction technology
