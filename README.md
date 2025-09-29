@@ -49,7 +49,8 @@ $ whoami
 ![SAP](https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)
 ![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
 ![SharePoint](https://img.shields.io/badge/SharePoint-0078D4?style=for-the-badge&logo=microsoft-sharepoint&logoColor=white)
-![Microsoft Dynamics AX Badge](AX2009_GH_Badge.svg)
+<img src="AX2009_GH_Badge.svg" alt="Microsoft Dynamics AX" height="32"/>
+
 
 ### 💾 Databases & Analytics
 ![SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
