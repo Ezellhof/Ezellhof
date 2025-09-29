@@ -45,7 +45,7 @@ $ whoami
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![VMware](https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white)
 
-### 📊 Corperate
+### 📊 Corporate
 
 <img src="AX2009_GH_Badge.svg" alt="Microsoft Dynamics AX" height="32"/>
 
