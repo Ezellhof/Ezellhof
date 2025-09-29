@@ -9,6 +9,8 @@
 
 <div align="center">
 
+![Profile Views](https://komarev.com/ghpvc/?username=Ezellhof&label=Profile%20views&color=FFDD00&labelColor=004588&textColor=000000&style=for-the-badge)
+
 ![Profile Views](https://komarev.com/ghpvc/?username=Ezellhof&label=Profile%20views&color=FFDD00&logoColor=004588&style=for-the-badge)
 
 [![Doka Group](https://custom-icon-badges.demolab.com/badge/Doka_Group-004588?logo=logo_house_doka_blue&logoColor=ffdd00&style=for-the-badge)](https://www.doka.com)
