@@ -56,8 +56,6 @@ $ whoami
 
 ## 📊 GitHub Stats
 
-[![DOKA-ScreenShotTool](https://github-readme-stats.vercel.app/api/pin/?username=Ezellhof&repo=doka-screenshottool&theme=radical&bg_color=004588&title_color=FFDD00&text_color=ffffff&icon_color=FFDD00&border_color=FFDD00)](https://github.com/Ezellhof/DOKA-ScreenShotTool)
-
 <div align="center">
   
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ezellhof&show_icons=true&theme=radical&bg_color=004588&title_color=FFDD00&text_color=ffffff&icon_color=FFDD00&border_color=FFDD00" />
