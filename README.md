@@ -10,6 +10,7 @@
 <div align="center">
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Ezellhof&label=Profile%20views&color=0C2340&style=for-the-badge)
+![Profile Views](https://komarev.com/ghpvc/?username=Ezellhof&label=Profile%20views&color=0C2340&style=for-the-badge&labelColor=E0E718)
 
 </div>
 
