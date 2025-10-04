@@ -17,7 +17,7 @@
 
 [![Doka Group](https://custom-icon-badges.demolab.com/badge/Doka_Group-004588?logo=logo_house_doka_blue&logoColor=ffdd00&style=for-the-badge)](https://www.doka.com)
 [![Doka Group](https://custom-icon-badges.demolab.com/badge/Doka_Group-ffdd00?logo=logo_house_doka_yellow&logoColor=004588&style=for-the-badge)](https://www.doka.com)
-[![AT-PAC](https://custom-icon-badges.demolab.com/badge/_AT-PAC-004588?logo=atpac_logo_house_white&logoColor=ffffff&style=for-the-badge)](https://www.at-pac.com)
+[![AT-PAC](https://custom-icon-badges.demolab.com/badge/AT_-PAC-004588?logo=atpac_logo_house_white&logoColor=ffffff&style=for-the-badge)](https://www.at-pac.com)
 
 </div>
 
