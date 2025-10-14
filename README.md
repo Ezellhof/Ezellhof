@@ -36,7 +36,7 @@
 
 * 💰 **Understanding** the **business logic**
 
-- 🕵 **Troubleshooting** and **fixes (improvements)** in various **areas**
+- 🕵 **Searching** for **Bugs** and **Troubleshooting/Fixing** in various **Buisness-Areas** in the **ERP-System**
 
 * 🆒 **Development** of **custom X++ Jobs** and **Forms**
 
