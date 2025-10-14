@@ -30,7 +30,7 @@
 
 ## 💼 Work Experience
 
-## <img src="./assets/Doka_Logo_Square_RGB.svg" height="36" style="vertical-align: middle; margin-right: 12px;"> <img src="./assets/AtPac_Logo_Square_RGB.svg" height="36" style="vertical-align: middle; margin-right: 12px;"> <img src="./assets/UG_Logo_Square_RGB_Lime_Blue.svg" height="36" style="vertical-align: middle; margin-right: 12px;"> <span style="vertical-align: middle;">Doka Group</span>
+## <img src="./assets/Doka_Logo_Square_RGB.svg" height="36" style="vertical-align: middle; margin-right: 12px;"> <img src="./assets/AtPac_Logo_Square_RGB.svg" height="36" style="vertical-align: bottom; margin-right: 12px;"> <img src="./assets/UG_Logo_Square_RGB_Lime_Blue.svg" height="36" style="vertical-align: middle; margin-right: 12px;"> <span style="vertical-align: middle;">Doka Group</span>
 
 <img src="assets/AX2009_Badge.svg" alt="Logo" style="height: 2.0em; vertical-align: middle;"> &nbsp; **"DISCOS" = Doka's modified Axapta 2009**
 
