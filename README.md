@@ -32,8 +32,6 @@
 
 ## <img src="./assets/Doka_Logo_Square_RGB.svg" height="36" style="vertical-align: middle; margin-right: 12px;"> <img src="./assets/AtPac_Logo_Square_RGB.svg" height="36" style="vertical-align: middle; margin-right: 12px;"> <img src="./assets/UG_Logo_Square_RGB_Lime_Blue.svg" height="36" style="vertical-align: middle; margin-right: 12px;"> <span style="vertical-align: middle;">Doka Group</span>
 
-<span style="display: block; height: 0.1em;"></span>
-
 <img src="assets/AX2009_Badge.svg" alt="Logo" style="height: 2.0em; vertical-align: middle;"> &nbsp; **"DISCOS" = Doka's modified Axapta 2009**
 
 * 💰 **Understanding** the **business logic**
@@ -41,8 +39,6 @@
 - 🕵 **Troubleshooting** and **fixes (improvements)** in various **areas**
 
 * 🆒 **Development** of **custom X++ Jobs** and **Forms**
-
-<span style="display: block; height: 0.1em;"></span>
 
 <img src="assets/helpdesk-logo.svg" alt="Logo" style="height: 1.6em; vertical-align: middle; margin-left; margin-right: 5px;"> **1st and 2nd Level IT Support (Console Helpdesk):** 
 
@@ -54,15 +50,11 @@
 
 - <img src="assets/Yellow_Bomb_Explo_Ticket.svg" alt="Blue_Ticket" style="height: 1.2em; vertical-align: middle;"> **Learning** various **programs** from other **departments** for the **ERP system migration** (**SAP**, **PIM/PPM**, **MDM**)
 
-<span style="display: block; height: 0.1em;"></span>
-
 <a href="https://github.com/Ezellhof"><img src="assets/github.svg" alt="Logo" style="height: 2.0em; vertical-align: middle; margin-right:5px;"></a> **Development** of a **[Screenshot Tool](https://github.com/Ezellhof/DOKA-ScreenShotTool)** in **PowerShell**
 
 ---
 
 ## <img src="assets/bgo_holding.svg" class="svg-darkmode" alt="Logo" style="height: 1.7em; vertical-align: middle; margin-right: 12px;"> <img src="assets/bgo_montage.svg" class="svg-darkmode" alt="Logo" style="height: 2.0em; vertical-align: middle; margin-right: 12px;"> <span style="vertical-align: middle;">Bgo Holding</span>
-
-<span style="display: block; height: 0.1em;"></span>
 
 * 🚛 **Planning** and **coordination** of **transfer** and **delivery trips** in **Austria** & **Germany** & **Switzerland**
 
@@ -74,15 +66,11 @@
 
 * 💁 **Cross-departmental exchange** with **transport** and **assembly partners** throughout **Austria** (business trips by car)
 
-<span style="display: block; height: 0.1em;"></span>
-
 <a href="https://github.com/BMLZellEr/bgo_montage_und_logistik"><img src="assets/github.svg" alt="Logo" style="height: 2.0em; vertical-align: middle; margin-right:5px;"></a> **Development** of various **[scripts](https://github.com/BMLZellEr/bgo_montage_und_logistik/tree/main/excel-makros)** and a **[dispatch map](https://bmlzeller.github.io/bgo_montage_und_logistik/austria_cargo_zone_map/index.html)**
 
 ---
 
 ## <img src="assets/Brunner_Logo.svg" alt="Logo" style="height: 1.7em; vertical-align: middle; margin-right: 12px;"> <span style="vertical-align: middle;">Norbert Brunner GmbH</span>
-
-<span style="display: block; height: 0.1em;"></span>
 
 * 🚍 **Fleet management**, **planning & coordination** of **buses** for **travel**, **line (rail replacement)**, and **school transport**
 
@@ -100,8 +88,6 @@
 
 ## <img src="assets/monero-colored.svg" alt="Logo" style="height: 1.7em; vertical-align: middle; margin-right: 12px;"> <img src="assets/ethereum-colored.svg" alt="Logo" style="height: 1.7em; vertical-align: middle; margin-right: 12px;"> <img src="assets/bitcoin-colored.svg" alt="Logo" style="height: 1.7em; vertical-align: middle; margin-right: 12px;"> <span style="vertical-align: middle;">Cryptocurrency Mining</span>
 
-<span style="display: block; height: 0.1em;"></span>
-
 * <img src="assets/ubuntu.svg" class="svg-darkmode"  alt="Logo" style="height: 1.6em; vertical-align: middle;"> **Management** of **Linux PCs** for **distributed computing**
 
 - <img src="assets/cpu.svg" class="svg-darkmode"  alt="Logo" style="height: 1.6em; vertical-align: middle;"> **Multi-GPU Linux workstation builds & driver installation**
@@ -114,23 +100,17 @@
 
 ## 🧑‍🏫 Civil Service: "Kidsnest"
 
-<span style="display: block; height: 0.1em;"></span>
-
 * 🤹 **Working** with **troubled youth**, cooking, shopping
 
 ---
 
 ## <img src="assets/wittur.svg" alt="Logo" style="height: 1.7em; vertical-align: middle; margin-right: 12px;"> <span style="vertical-align: middle;">Internship Wittur</span>
 
-<span style="display: block; height: 0.1em;"></span>
-
 * 🔌 **Electrical work** and **IT work** (cable assembly, logistics, Excel, wiring of elevator circuits)
 
 ---
 
 ## 🎓 Education
-
-<span style="display: block; height: 0.1em;"></span>
 
 **High School** | **HTL** | 09/2014 – 07/2019
 
