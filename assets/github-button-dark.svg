@@ -3,7 +3,7 @@
     <div xmlns="http://www.w3.org/1999/xhtml">
       <style>
         .wrapper {
-          padding-top: 5px;
+          padding-top: 10px;
         }
         .icon-container {
           width: 40px;
