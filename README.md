@@ -18,20 +18,11 @@
 
 <div align="center">
 
-[![DOKA-ScreenShotTool](https://github-readme-stats.vercel.app/api/pin/?username=Ezellhof&repo=doka-screenshottool&theme=radical&bg_color=1A1A1A&title_color=00FF00&text_color=ffffff&icon_color=00FF00&border_color=00FF00&description_lines_count=3)](https://github.com/Ezellhof/DOKA-ScreenShotTool)
+<img height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=Ezellhof&repo=doka-screenshottool&theme=radical&bg_color=1A1A1A&title_color=00FF00&text_color=ffffff&icon_color=00FF00&border_color=00FF00&description_lines_count=3" />
+<img height="150em" src="https://github-readme-stats.vercel.app/api?username=Ezellhof&show_icons=true&theme=radical&bg_color=1A1A1A&title_color=00FF00&text_color=ffffff&icon_color=00FF00&border_color=00FF00" />
 
-</div>
-
-<div align="center">
-  
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ezellhof&show_icons=true&theme=radical&bg_color=1A1A1A&title_color=00FF00&text_color=ffffff&icon_color=00FF00&border_color=00FF00" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ezellhof&layout=compact&theme=radical&bg_color=1A1A1A&title_color=00FF00&text_color=ffffff&border_color=00FF00" />
-
-</div>
-
-<div align="center">
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ezellhof&theme=radical&background=1A1A1A&stroke=00FF00&ring=00FF00&fire=00FF00&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=00FF00&sideLabels=ffffff&dates=ffffff)](https://git.io/streak-stats)
+<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ezellhof&layout=compact&theme=radical&bg_color=1A1A1A&title_color=00FF00&text_color=ffffff&border_color=00FF00" />
+<img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=Ezellhof&theme=radical&background=1A1A1A&stroke=00FF00&ring=00FF00&fire=00FF00&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=00FF00&sideLabels=ffffff&dates=ffffff" />
 
 </div>
 
