@@ -66,7 +66,7 @@
 
 * 💁 **Cross-departmental exchange** with **transport** and **assembly partners** throughout **Austria** (business trips by car)
 
-<img src="assets/github-button-light.svg" alt="Logo" style="height: 40px; margin-right: 12px; margin-left: 5px;"><span>    **Development** of various **[Scripts](https://github.com/BMLZellEr/bgo_montage_und_logistik/tree/main/excel-makros)** and a **[Dispatcher-Map](https://bmlzeller.github.io/bgo_montage_und_logistik/austria_cargo_zone_map/index.html)** </span>
+<img src="assets/github-button-light.svg" alt="Logo" style="height: 40px; margin-right: 20px; margin-left: 20px;"><span>    **Development** of various **[Scripts](https://github.com/BMLZellEr/bgo_montage_und_logistik/tree/main/excel-makros)** and a **[Dispatcher-Map](https://bmlzeller.github.io/bgo_montage_und_logistik/austria_cargo_zone_map/index.html)** </span>
 
 ---
 
