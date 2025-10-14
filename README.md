@@ -66,17 +66,7 @@
 
 * 💁 **Cross-departmental exchange** with **transport** and **assembly partners** throughout **Austria** (business trips by car)
 
-<a href="https://github.com/BMLZellEr/bgo_montage_und_logistik">
-  <img src="assets/github.svg" alt="GH_Logo" style="height: 2.0em; vertical-align: middle; margin-right:5px; transition: all 0.3s ease; filter: brightness(1);">
-</a>
-<style>
-a:hover img {
-  transform: scale(1.12);
-  filter: brightness(1.3) drop-shadow(0 0 8px rgba(100, 150, 255, 0.6));
-}
-</style>
-
-**Development** of various **[Scripts](https://github.com/BMLZellEr/bgo_montage_und_logistik/tree/main/excel-makros)** and a **[Dispatcher-Map](https://bmlzeller.github.io/bgo_montage_und_logistik/austria_cargo_zone_map/index.html)**
+<a href="https://github.com/BMLZellEr/bgo_montage_und_logistik"><img src="assets/github.svg" alt="GH_Logo" style="height: 2.0em; vertical-align: middle; margin-right: 5px; transition: all 0.3s ease; filter: brightness(1);" onmouseover="this.style.transform='scale(1.12)'; this.style.filter='brightness(1.3) drop-shadow(0 0 8px rgba(100, 150, 255, 0.6))'" onmouseout="this.style.transform='scale(1)'; this.style.filter='brightness(1)'"></a> <strong>Development</strong> of various <strong><a href="https://github.com/BMLZellEr/bgo_montage_und_logistik/tree/main/excel-makros">Script
 
 ---
 
