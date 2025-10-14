@@ -1,4 +1,4 @@
-<div align="center">
+  <div align="center">
   
   <!-- Dynamic Typing Headline -->
   [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00FF00&background=1A1A1A&center=true&vCenter=true&multiline=true&width=900&height=120&lines=👋+Welcome+to+my+GitHub!;🔧+Automation+Enthusiast+%7C+Problem+Solver;🏝️+Currently+on+Holiday!)](https://git.io/typing-svg)
@@ -66,7 +66,7 @@
 
 * 💁 **Cross-departmental exchange** with **transport** and **assembly partners** throughout **Austria** (business trips by car)
 
-<img src="assets/github-button-light.svg" alt="Logo" style="height: 40px; margin-right: 20px; margin-left: 20px;"><span>    **Development** of various **[Scripts](https://github.com/BMLZellEr/bgo_montage_und_logistik/tree/main/excel-makros)** and a **[Dispatcher-Map](https://bmlzeller.github.io/bgo_montage_und_logistik/austria_cargo_zone_map/index.html)** </span>
+<img src="assets/github-button-light.svg" alt="Logo" style="height: 40px; margin-top: 20px;"><span>    **Development** of various **[Scripts](https://github.com/BMLZellEr/bgo_montage_und_logistik/tree/main/excel-makros)** and a **[Dispatcher-Map](https://bmlzeller.github.io/bgo_montage_und_logistik/austria_cargo_zone_map/index.html)** </span>
 
 ---
 
