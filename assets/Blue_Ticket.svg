@@ -1,0 +1,30 @@
+<svg viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg">
+  <!-- Red rounded square background -->
+  <rect width="200" height="200" rx="20" fill="#5d98d2"/>
+  
+  <!-- Large white gear (8 teeth) -->
+  <g transform="translate(75,100)">
+    <circle r="23" fill="#fff"/>
+    <path d="M-8,-15 L-5,-30 Q-5,-33 0,-33 Q5,-33 5,-30 L8,-15 Z" fill="#fff"/>
+    <path d="M-8,-15 L-5,-30 Q-5,-33 0,-33 Q5,-33 5,-30 L8,-15 Z" fill="#fff" transform="rotate(45)"/>
+    <path d="M-8,-15 L-5,-30 Q-5,-33 0,-33 Q5,-33 5,-30 L8,-15 Z" fill="#fff" transform="rotate(90)"/>
+    <path d="M-8,-15 L-5,-30 Q-5,-33 0,-33 Q5,-33 5,-30 L8,-15 Z" fill="#fff" transform="rotate(135)"/>
+    <path d="M-8,-15 L-5,-30 Q-5,-33 0,-33 Q5,-33 5,-30 L8,-15 Z" fill="#fff" transform="rotate(180)"/>
+    <path d="M-8,-15 L-5,-30 Q-5,-33 0,-33 Q5,-33 5,-30 L8,-15 Z" fill="#fff" transform="rotate(225)"/>
+    <path d="M-8,-15 L-5,-30 Q-5,-33 0,-33 Q5,-33 5,-30 L8,-15 Z" fill="#fff" transform="rotate(270)"/>
+    <path d="M-8,-15 L-5,-30 Q-5,-33 0,-33 Q5,-33 5,-30 L8,-15 Z" fill="#fff" transform="rotate(315)"/>
+    <circle r="10" fill="#5d98d2"/>
+  </g>
+  
+  <!-- Small grey gear (6 teeth) -->
+  <g transform="translate(125,78)">
+    <circle r="16" fill="#ccc"/>
+    <path d="M-6,-12 L-4,-20 Q-4,-23 0,-23 Q4,-23 4,-20 L6,-12 Z" fill="#ccc"/>
+    <path d="M-6,-12 L-4,-20 Q-4,-23 0,-23 Q4,-23 4,-20 L6,-12 Z" fill="#ccc" transform="rotate(60)"/>
+    <path d="M-6,-12 L-4,-20 Q-4,-23 0,-23 Q4,-23 4,-20 L6,-12 Z" fill="#ccc" transform="rotate(120)"/>
+    <path d="M-6,-12 L-4,-20 Q-4,-23 0,-23 Q4,-23 4,-20 L6,-12 Z" fill="#ccc" transform="rotate(180)"/>
+    <path d="M-6,-12 L-4,-20 Q-4,-23 0,-23 Q4,-23 4,-20 L6,-12 Z" fill="#ccc" transform="rotate(240)"/>
+    <path d="M-6,-12 L-4,-20 Q-4,-23 0,-23 Q4,-23 4,-20 L6,-12 Z" fill="#ccc" transform="rotate(300)"/>
+    <circle r="6" fill="#5d98d2"/>
+  </g>
+</svg>
