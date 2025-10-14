@@ -14,7 +14,7 @@
           background: #ffffff;
           border-radius: 10px;
           transition: all 0.35s cubic-bezier(0.68, -0.55, 0.265, 1.55);
-          border: 2.5px solid #444444;
+          border: 2.5px solid #2d2d2d;
           box-shadow: 0 2px 6px rgba(255, 255, 255, 0.1);
         }
         .icon-container:hover {
