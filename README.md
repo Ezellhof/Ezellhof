@@ -1,67 +1,14 @@
-# Hi there! 👋
-
 <div align="center">
   
   <!-- Dynamic Typing Headline -->
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=FFDD00&background=004588&center=true&vCenter=true&multiline=true&width=900&height=120&lines=Welcome+to+my+GitHub+Profile!;Operations%7CSystems%7CSupport+Specialist;%40+Doka+Group+-+Formwork+%26+Scaffolding)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00FF00&background=1A1A1A&center=true&vCenter=true&multiline=true&width=900&height=120&lines=👋+Welcome+to+my+GitHub!;🔧+Automation+Enthusiast+%7C+Problem+Solver;🏝️+Currently+on+Holiday!)](https://git.io/typing-svg)
 
-</div>
+## 📫 Let's Connect
 
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=Ezellhof&label=Profile%20views&color=0C2340&style=for-the-badge&labelColor=E0E718)
-
-[![Umdasch Group](https://custom-icon-badges.demolab.com/badge/Umdasch_Group-0C2340?logo=logo_house_ug_blue&logoColor=E0E718&style=for-the-badge)](https://umdaschgroup.com)
-[![Umdasch Group](https://custom-icon-badges.demolab.com/badge/Umdasch_Group-E0E718?logo=logo_house_ug_lime&logoColor=0C2340&style=for-the-badge)](https://umdaschgroup.com)
-
-[![Doka Group](https://custom-icon-badges.demolab.com/badge/Doka_Group-ffdd00?logo=logo_house_doka_yellow&logoColor=004588&style=for-the-badge)](https://www.doka.com)
-[![Doka Group](https://custom-icon-badges.demolab.com/badge/Doka_Group-004588?logo=logo_house_doka_blue&logoColor=ffdd00&style=for-the-badge)](https://www.doka.com)
-
-[![AT-PAC](https://custom-icon-badges.demolab.com/badge/AT--PAC-004588?logo=atpac_logo_house_white&logoColor=ffffff&style=for-the-badge)](https://www.at-pac.com)
-[![AT-PAC](https://custom-icon-badges.demolab.com/badge/AT--PAC-ffffff?logo=atpac_logo_house_white&logoColor=004588&style=for-the-badge)](https://www.at-pac.com)
-
-</div>
-
----
-
-## 🧙‍♂️ About Me
-
-```bash
-$ whoami
-├── 👨‍💼 Role: Operations Employee HQ - Operations Systems & Support
-├── 🏢 Company: Doka Group (Part of Umdasch Group)
-├── 🏬 Department: DG/OP/OPS/OSS
-├── 📍 Work location: CS-AUT-Amstetten
-├── 🎯 Focus: Automation & System Optimization
-└── 💡 Vision: IT Driven Innovation in construction technology
-```
-
----
-
-## 🎯 Current Focus Areas
-
-<div align="center">
-
-[![DOKA-ScreenShotTool](https://github-readme-stats.vercel.app/api/pin/?username=Ezellhof&repo=doka-screenshottool&theme=radical&bg_color=004588&title_color=FFDD00&text_color=ffffff&icon_color=FFDD00&border_color=FFDD00&description_lines_count=3)](https://github.com/Ezellhof/DOKA-ScreenShotTool)
-
-</div>
-
----
-
-
-## 🛠️ Tech Stack & Tools
-
-<div align="center">
-
-| Category | Technologies |
-|----------|-------------|
-| **💻 Operating Systems** | ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white) |
-| **⚙️ VM's & Containers** | ![Docker](https://img.shields.io/badge/Docker%20Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![ProxMox](https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white) ![VMware](https://img.shields.io/badge/VMware-231f20?style=for-the-badge&logo=VMware&logoColor=white) |
-| **📊 Corporate** | <img src="AX2009_GH_Badge.svg" alt="Microsoft Dynamics AX" height="28"/> ![SAP](https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white) ![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white) ![SharePoint](https://img.shields.io/badge/SharePoint-0078D4?style=for-the-badge&logo=microsoft-sharepoint&logoColor=white) |
-| **💾 Databases** | ![MS SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![Postgres](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) |
-| **🌐 Web Technologies** | ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) |
-| **📃 Scripting** | ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Bash](https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white) |
-| **🔧 Tools** | ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white) |
+![Profile Views](https://komarev.com/ghpvc/?username=Ezellhof&label=Profile%20views&color=00FF00&style=for-the-badge&labelColor=1A1A1A)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/erik-zellhofer-k1999?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ezellhof)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:erik@kingslayer.cc)
 
 </div>
 
@@ -70,33 +17,176 @@ $ whoami
 ## 📊 GitHub Stats
 
 <div align="center">
-  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ezellhof&show_icons=true&theme=radical&bg_color=004588&title_color=FFDD00&text_color=ffffff&icon_color=FFDD00&border_color=FFDD00" />
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ezellhof&theme=radical&background=004588&stroke=FFDD00&ring=FFDD00&fire=FFDD00&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=FFDD00&sideLabels=ffffff&dates=ffffff)](https://git.io/streak-stats)
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ezellhof&layout=compact&theme=radical&bg_color=004588&title_color=FFDD00&text_color=ffffff&border_color=FFDD00" />
+[![DOKA-ScreenShotTool](https://github-readme-stats.vercel.app/api/pin/?username=Ezellhof&repo=doka-screenshottool&theme=radical&bg_color=1A1A1A&title_color=00FF00&text_color=ffffff&icon_color=00FF00&border_color=00FF00&description_lines_count=3)](https://github.com/Ezellhof/DOKA-ScreenShotTool)
+
+</div>
+
+<div align="center">
+  
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ezellhof&show_icons=true&theme=radical&bg_color=1A1A1A&title_color=00FF00&text_color=ffffff&icon_color=00FF00&border_color=00FF00" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ezellhof&layout=compact&theme=radical&bg_color=1A1A1A&title_color=00FF00&text_color=ffffff&border_color=00FF00" />
+
+</div>
+
+<div align="center">
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ezellhof&theme=radical&background=1A1A1A&stroke=00FF00&ring=00FF00&fire=00FF00&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=00FF00&sideLabels=ffffff&dates=ffffff)](https://git.io/streak-stats)
 
 </div>
 
 ---
 
-## 📫 Let's Connect!
+## 💼 Work Experience
+
+## <img src="./assets/Doka_Logo_Square_RGB.svg" height="36" style="vertical-align: middle; margin-right: 12px;"> <img src="./assets/AtPac_Logo_Square_RGB.svg" height="36" style="vertical-align: middle; margin-right: 12px;"> <img src="./assets/UG_Logo_Square_RGB_Lime_Blue.svg" height="36" style="vertical-align: middle; margin-right: 12px;"> <span style="vertical-align: middle;">Doka Group</span>
+
+<span style="display: block; height: 0.1em;"></span>
+
+<img src="assets/AX2009_Badge.svg" alt="Logo" style="height: 2.0em; vertical-align: middle;"> &nbsp; **"DISCOS" = Doka's modified Axapta 2009**
+
+* 💰 **Understanding** the **business logic**
+
+- 🕵 **Troubleshooting** and **fixes (improvements)** in various **areas**
+
+* 🆒 **Development** of **custom X++ Jobs** and **Forms**
+
+<span style="display: block; height: 0.1em;"></span>
+
+<img src="assets/helpdesk-logo.svg" alt="Logo" style="height: 1.6em; vertical-align: middle; margin-left; margin-right: 5px;"> **1st and 2nd Level IT Support (Console Helpdesk):** 
+
+* <img src="assets/Red_Bomb_Explo_Ticket.svg" alt="Red_Bomb_Ticket" style="height: 1.2em; vertical-align: middle;"> **Processing** over **100 tickets** in the first **2 months** ranging from **user errors** to **company customizing issues**
+
+- <img src="assets/Blue_Ticket.svg" alt="Blue_Ticket" style="height: 1.2em; vertical-align: middle;">  **Customer/client contact** in **English** with **people from all over the world 🌍** - *"❤️ Personal Favorite"*
+
+* <img src="assets/Green_Bomb_Explo_Ticket.svg" alt="Blue_Ticket" style="height: 1.2em; vertical-align: middle;"> **Collaboration** with the **Business-Application IT**: **troubleshooting** for **data transfer** via **xml interfaces**, **bugfixing** in **X++ code**
+
+- <img src="assets/Yellow_Bomb_Explo_Ticket.svg" alt="Blue_Ticket" style="height: 1.2em; vertical-align: middle;"> **Learning** various **programs** from other **departments** for the **ERP system migration** (**SAP**, **PIM/PPM**, **MDM**)
+
+<span style="display: block; height: 0.1em;"></span>
+
+<a href="https://github.com/Ezellhof"><img src="assets/github.svg" alt="Logo" style="height: 2.0em; vertical-align: middle; margin-right:5px;"></a> **Development** of a **[Screenshot Tool](https://github.com/Ezellhof/DOKA-ScreenShotTool)** in **PowerShell**
+
+---
+
+## <img src="assets/bgo_holding.svg" class="svg-darkmode" alt="Logo" style="height: 1.7em; vertical-align: middle; margin-right: 12px;"> <img src="assets/bgo_montage.svg" class="svg-darkmode" alt="Logo" style="height: 2.0em; vertical-align: middle; margin-right: 12px;"> <span style="vertical-align: middle;">Bgo Holding</span>
+
+<span style="display: block; height: 0.1em;"></span>
+
+* 🚛 **Planning** and **coordination** of **transfer** and **delivery trips** in **Austria** & **Germany** & **Switzerland**
+
+- 🎓 **Learning** **2 CMS software products** (Profi-Tour & Cargo-Support) for the **IT migration** of one of our **furniture manufacturers**
+
+* 💻 **Collaboration & Consulting** with the **Business-Application IT** and **Dispatchers** as a **KeyUser**
+
+- 🧾 **Development of automated document solutions** (tour summary sheets, waybills) using **SQL queries**, **report designer**, and **VBA scripts**
+
+* 💁 **Cross-departmental exchange** with **transport** and **assembly partners** throughout **Austria** (business trips by car)
+
+<span style="display: block; height: 0.1em;"></span>
+
+<a href="https://github.com/BMLZellEr/bgo_montage_und_logistik"><img src="assets/github.svg" alt="Logo" style="height: 2.0em; vertical-align: middle; margin-right:5px;"></a> **Development** of various **[scripts](https://github.com/BMLZellEr/bgo_montage_und_logistik/tree/main/excel-makros)** and a **[dispatch map](https://bmlzeller.github.io/bgo_montage_und_logistik/austria_cargo_zone_map/index.html)**
+
+---
+
+## <img src="assets/Brunner_Logo.svg" alt="Logo" style="height: 1.7em; vertical-align: middle; margin-right: 12px;"> <span style="vertical-align: middle;">Norbert Brunner GmbH</span>
+
+<span style="display: block; height: 0.1em;"></span>
+
+* 🚍 **Fleet management**, **planning & coordination** of **buses** for **travel**, **line (rail replacement)**, and **school transport**
+
+- 📊 **Management** of a **small business** including **job interviews** and **financial** and **work planning**
+
+* 📆 **Service**, **repair**, and **appointment scheduling**
+
+- 🚌 **Assignment** and **evaluation** of **driving times** using **DAKO system**
+
+* 💸 **Customer service** and **procurement**
+
+- 🖨️ **Small business IT infrastructure**: **Linux server** with **SMB shares**, **Windows backups**, **network infrastructure**, **password management**, **CCTV**, **user permissions**, **Microsoft SQL**
+
+---
+
+## <img src="assets/monero-colored.svg" alt="Logo" style="height: 1.7em; vertical-align: middle; margin-right: 12px;"> <img src="assets/ethereum-colored.svg" alt="Logo" style="height: 1.7em; vertical-align: middle; margin-right: 12px;"> <img src="assets/bitcoin-colored.svg" alt="Logo" style="height: 1.7em; vertical-align: middle; margin-right: 12px;"> <span style="vertical-align: middle;">Cryptocurrency Mining</span>
+
+<span style="display: block; height: 0.1em;"></span>
+
+* <img src="assets/ubuntu.svg" class="svg-darkmode"  alt="Logo" style="height: 1.6em; vertical-align: middle;"> **Management** of **Linux PCs** for **distributed computing**
+
+- <img src="assets/cpu.svg" class="svg-darkmode"  alt="Logo" style="height: 1.6em; vertical-align: middle;"> **Multi-GPU Linux workstation builds & driver installation**
+
+* <img src="assets/google.svg" class="svg-darkmode" alt="Logo" style="height: 1.6em; vertical-align: middle;">  **Integration** of **Google Cloud API** in **Bash scripts**
+
+- <img src="assets/database.svg" class="svg-darkmode"  alt="Logo" style="height: 1.6em; vertical-align: middle;"> **Development** and **maintenance** of an **SQL database** (MariaDB) for **hashrate**, **fiat value**, and more
+
+---
+
+## 🧑‍🏫 Civil Service: "Kidsnest"
+
+<span style="display: block; height: 0.1em;"></span>
+
+* 🤹 **Working** with **troubled youth**, cooking, shopping
+
+---
+
+## <img src="assets/wittur.svg" alt="Logo" style="height: 1.7em; vertical-align: middle; margin-right: 12px;"> <span style="vertical-align: middle;">Internship Wittur</span>
+
+<span style="display: block; height: 0.1em;"></span>
+
+* 🔌 **Electrical work** and **IT work** (cable assembly, logistics, Excel, wiring of elevator circuits)
+
+---
+
+## 🎓 Education
+
+<span style="display: block; height: 0.1em;"></span>
+
+**High School** | **HTL** | 09/2014 – 07/2019
+
+**Middle School** | **Hauptschule** | 09/2010 – 07/2014
+
+**Primary School** | **Volksschule** | 09/2006 – 07/2010
+
+---
+
+## 🛠️ Tech Stack & Tools
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/erik-zellhofer-k1999?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:erik.zellhofer@doka.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ezellhof)
-[![Doka Group](https://custom-icon-badges.demolab.com/badge/Doka_Group-004588?logo=logo_house_doka_blue&logoColor=ffdd00&style=for-the-badge)](https://www.doka.com)
+| Category | Technologies |
+|----------|-------------|
+| **💻 Operating Systems** | [![Windows](https://custom-icon-badges.demolab.com/badge/Windows-0078D6?logo=windows-logo-erik&logoColor=0C2340&style=for-the-badge)](https://www.microsoft.com) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white) |
+| **⚙️ VM's & Containers** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![ProxMox](https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white) ![VMware](https://img.shields.io/badge/VMware-231f20?style=for-the-badge&logo=VMware&logoColor=white) |
+| **📊 Corporate** | <img src="assets/AX2009_Badge.svg" alt="Microsoft Dynamics AX" height="28"/> ![SAP](https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white) [![MicrosoftOffice](https://custom-icon-badges.demolab.com/badge/Microsoft%20Office-D83B01?logo=office-logo-erik&logoColor=FFFFFF&style=for-the-badge)](https://www.microsoft.com) [![SharePoint](https://custom-icon-badges.demolab.com/badge/Sharepoint-1a9ba1?logo=sharepoint-logo-erik&logoColor=FFFFFF&style=for-the-badge)](https://www.microsoft.com) ![Adobe InDesign](https://img.shields.io/badge/Adobe%20InDesign-49021F?style=for-the-badge&logo=adobeindesign&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) |
+| **💾 Databases** | ![MS SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![Postgres](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) |
+| **🌐 Web Technologies** | ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) |
+| **📃 Scripting** | [![PowerShell](https://custom-icon-badges.demolab.com/badge/Powershell-5391FE?logo=powershell-logo-erik&logoColor=&style=for-the-badge)](https://www.microsoft.com) ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white) |
+| **🔧 Tools** | ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white) |
 
 </div>
 
 ---
 
+## 🌍 Languages & Additional Information
+
+🇩🇪 **German** (Native)
+ 
+🇬🇧 **English** (Fluent)
+
+🚗 **Driver's License**
+
+✈️ **Willingness to travel** 💯
+
+---
+
+## 🎯 Interests
+
+Technology, Travel, Foreign Cultures, Tennis, New Challenges, Customer Contact
+
+---
+
 <div align="center">
   
-  **Thanks for visiting my profile! 🙏**
-  
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2000&pause=1000&color=004588&center=true&vCenter=true&width=700&lines=Formwork+%26+Scaffolding+-+We+make+it+work!)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2000&pause=1000&color=00FF00&center=true&vCenter=true&width=500&lines=Keep+coding!+💻;Automation+is+Key!+🔧;Thanks+for+visiting+my+profile!+🚀)
 
 </div>
