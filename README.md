@@ -50,7 +50,7 @@
 
 - <img src="assets/Yellow_Bomb_Explo_Ticket.svg" alt="Blue_Ticket" style="height: 1.2em; vertical-align: middle;"> **Learning** various **programs** from other **departments** for the **ERP system migration** (**SAP**, **PIM/PPM**, **MDM**)
 
-<a href="https://github.com/Ezellhof"><img src="assets/github.svg" alt="Logo" style="height: 2.0em; vertical-align: middle; margin-right:5px;"></a> **Development** of a **[Screenshot Tool](https://github.com/Ezellhof/DOKA-ScreenShotTool)** in **PowerShell**
+<a href="https://github.com/Ezellhof"><img src="assets/github-button-light.svg" alt="Logo" style="height: 2.0em; vertical-align: middle; margin-right:5px;"></a> **Development** of a **[Screenshot Tool](https://github.com/Ezellhof/DOKA-ScreenShotTool)** in **PowerShell**
 
 ---
 
