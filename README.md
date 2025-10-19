@@ -50,7 +50,7 @@
 
 - <img src="assets/Yellow_Bomb_Explo_Ticket.svg" alt="Blue_Ticket" style="height: 1.2em; vertical-align: middle;"> **Learning** various **programs** from other **departments** for the **ERP system migration** (**SAP**, **PIM/PPM**, **MDM**)
 
-<a href="https://github.com/Ezellhof"><img src="assets/github-button-light.svg" alt="Logo" style="height: 2.0em; vertical-align: middle; margin-right:5px;"></a> **Development** of a **[Screenshot Tool](https://github.com/Ezellhof/DOKA-ScreenShotTool)** in **PowerShell**
+### <a href="https://github.com/Ezellhof"><img src="assets/github-button-light.svg" alt="Logo" style="height: 2.0em; vertical-align: middle; margin-right:5px;"></a> **Development** of a **[Screenshot Tool](https://github.com/Ezellhof/DOKA-ScreenShotTool)** in **PowerShell**
 
 ---
 
@@ -66,7 +66,7 @@
 
 * 💁 **Cross-departmental exchange** with **transport** and **assembly partners** throughout **Austria** (business trips by car)
 
-### <img src="assets/github-button-light.svg" class="svg-darkmode" alt="Logo" style="height: 2.2em; vertical-align: middle; margin-right: 12px;"> <span style="vertical-align: middle;"> **Development** of various **[Scripts](https://github.com/BMLZellEr/bgo_montage_und_logistik/tree/main/excel-makros)** and a **[Dispatcher-Map](https://bmlzeller.github.io/bgo_montage_und_logistik/austria_cargo_zone_map/index.html)** </span></span>
+### <a href="https://github.com/BMLZellEr/bgo_montage_und_logistik"><img src="assets/github-button-light.svg" class="svg-darkmode" alt="Logo" style="height: 2.2em; vertical-align: middle; margin-right: 12px;"> <span style="vertical-align: middle;"> **Development** of various **[Scripts](https://github.com/BMLZellEr/bgo_montage_und_logistik/tree/main/excel-makros)** and a **[Dispatcher-Map](https://bmlzeller.github.io/bgo_montage_und_logistik/austria_cargo_zone_map/index.html)** </span></span>
 
 ---
 
