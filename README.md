@@ -152,7 +152,7 @@
 
 ## 🎯 Interests
 
-Technology, Travel, Foreign Cultures, Tennis, New Challenges, Customer Contact
+Tennis, Technology, Travel, Foreign Cultures, New Challenges, Customer Contact
 
 ---
 
