@@ -107,6 +107,7 @@
 ## <img src="assets/wittur.svg" alt="Logo" style="height: 1.7em; vertical-align: middle; margin-right: 12px;"> <span style="vertical-align: middle;">Internship Wittur</span>
 
 * 🔌 **Electrical work** and **IT work** (cable assembly, logistics, Excel, wiring of elevator circuits)
+- 🚭 **Sticking Stickers** on **PCB's** in the **"Konsi-Lager"**
 
 ---
 
