@@ -66,59 +66,7 @@
 
 * 💁 **Cross-departmental exchange** with **transport** and **assembly partners** throughout **Austria** (business trips by car)
 
-### <a href="https://github.com/BMLZellEr/bgo_montage_und_logistik"><img src="assets/github-button-light.svg" class="svg-darkmode" alt="Logo" style="height: 2.2em; vertical-align: middle; margin-right: 12px;"> <span style="vertical-align: middle;"> **Development** of various **[Scripts](https://github.com/BMLZellEr/bgo_montage_und_logistik/tree/main/excel-makros)** and a **[Dispatcher-Map](https://bmlzeller.github.io/bgo_montage_und_logistik/austria_cargo_zone_map/index.html)** </span></span>
-
----
-
-## <img src="assets/Brunner_Logo.svg" alt="Logo" style="height: 1.7em; vertical-align: middle; margin-right: 12px;"> <span style="vertical-align: middle;">Norbert Brunner GmbH</span>
-
-* 🚍 **Fleet management**, **planning & coordination** of **buses** for **travel**, **line (rail replacement)**, and **school transport**
-
-- 📊 **Management** of a **small business** including **job interviews** and **financial** and **work planning**
-
-* 📆 **Service**, **repair**, and **appointment scheduling**
-
-- 🚌 **Assignment** and **evaluation** of **driving times** using **DAKO system**
-
-* 💸 **Customer service** and **procurement**
-
-- 🖨️ **Small business IT infrastructure**: **Linux server** with **SMB shares**, **Windows backups**, **network infrastructure**, **password management**, **CCTV**, **user permissions**, **Microsoft SQL**
-
----
-
-## <img src="assets/monero-colored.svg" alt="Logo" style="height: 1.7em; vertical-align: middle; margin-right: 12px;"> <img src="assets/ethereum-colored.svg" alt="Logo" style="height: 1.7em; vertical-align: middle; margin-right: 12px;"> <img src="assets/bitcoin-colored.svg" alt="Logo" style="height: 1.7em; vertical-align: middle; margin-right: 12px;"> <span style="vertical-align: middle;">Cryptocurrency Mining</span>
-
-* <img src="assets/ubuntu.svg" class="svg-darkmode"  alt="Logo" style="height: 1.6em; vertical-align: middle;"> **Management** of **Linux PCs** for **distributed computing**
-
-- <img src="assets/cpu.svg" class="svg-darkmode"  alt="Logo" style="height: 1.6em; vertical-align: middle;"> **Multi-GPU Linux workstation builds & driver installation**
-
-* <img src="assets/google.svg" class="svg-darkmode" alt="Logo" style="height: 1.6em; vertical-align: middle;">  **Integration** of **Google Cloud API** in **Bash scripts**
-
-- <img src="assets/database.svg" class="svg-darkmode"  alt="Logo" style="height: 1.6em; vertical-align: middle;"> **Development** and **maintenance** of an **SQL database** (MariaDB) for **hashrate**, **fiat value**, and more
-
----
-
-## 🧑‍🏫 Civil Service: "Kidsnest"
-
-* 🤹 **Working** with **troubled youth**, cooking, shopping
-
----
-
-## <img src="assets/wittur.svg" alt="Logo" style="height: 1.7em; vertical-align: middle; margin-right: 12px;"> <span style="vertical-align: middle;">Internship Wittur</span>
-
-* 🔌 **Electrical work** and **IT work** (cable assembly, logistics, Excel, wiring of elevator circuits)
-- 🚭 **Sticking Stickers** on **PCB's** in the **"Konsi-Lager"**
-
----
-
-## 🎓 Education
-
-**High School** | **HTL** | 09/2014 – 07/2019
-
-**Middle School** | **Hauptschule** | 09/2010 – 07/2014
-
-**Primary School** | **Volksschule** | 09/2006 – 07/2010
-
+### <a href="https://github.com/BMLZellEr/bgo_montage_und_logistik"><img src="assets/github-button-light.svg" class="svg-darkmode" alt="Logo" 
 ---
 
 ## 🛠️ Tech Stack & Tools
