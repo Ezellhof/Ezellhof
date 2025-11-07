@@ -28,47 +28,6 @@
 
 ---
 
-## 💼 Work Experience
-
-## <img src="./assets/Doka_Logo_Square_RGB.svg" height="36" style="vertical-align: middle; margin-right: 12px;"> <img src="./assets/AtPac_Logo_Square_RGB.svg" height="36" style="vertical-align: bottom; margin-right: 12px;"> <img src="./assets/UG_Logo_Square_RGB_Lime_Blue.svg" height="36" style="vertical-align: middle; margin-right: 12px;"> <span style="vertical-align: middle;">Doka Group</span>
-
-<img src="assets/AX2009_Badge.svg" alt="Logo" style="height: 2.0em; vertical-align: middle;"> &nbsp; **"DISCOS" = Doka's modified Axapta 2009**
-
-* 💰 **Understanding** the **business logic**
-
-- 🕵 **Searching** for **Bugs** and **Troubleshooting/Fixing** in various **Buisness-Areas** in the **ERP-System**
-
-* 🆒 **Development** of **custom X++ Jobs** and **Forms**
-
-<img src="assets/helpdesk-logo.svg" alt="Logo" style="height: 1.6em; vertical-align: middle; margin-left; margin-right: 5px;"> **1st and 2nd Level IT Support (Console Helpdesk):** 
-
-* <img src="assets/Red_Bomb_Explo_Ticket.svg" alt="Red_Bomb_Ticket" style="height: 1.2em; vertical-align: middle;"> **Processing** over **100 tickets** in the first **2 months** ranging from **user errors** to **company customizing issues**
-
-- <img src="assets/Blue_Ticket.svg" alt="Blue_Ticket" style="height: 1.2em; vertical-align: middle;">  **Customer/client contact** in **English** with **people from all over the world 🌍** - *"❤️ Personal Favorite"*
-
-* <img src="assets/Green_Bomb_Explo_Ticket.svg" alt="Blue_Ticket" style="height: 1.2em; vertical-align: middle;"> **Collaboration** with the **Business-Application IT**: **troubleshooting** for **data transfer** via **xml interfaces**, **bugfixing** in **X++ code**
-
-- <img src="assets/Yellow_Bomb_Explo_Ticket.svg" alt="Blue_Ticket" style="height: 1.2em; vertical-align: middle;"> **Learning** various **programs** from other **departments** for the **ERP system migration** (**SAP**, **PIM/PPM**, **MDM**)
-
-### <a href="https://github.com/Ezellhof"><img src="assets/github-button-light.svg" alt="Logo" style="height: 2.0em; vertical-align: middle; margin-right:5px;"></a> **Development** of a **[Screenshot Tool](https://github.com/Ezellhof/DOKA-ScreenShotTool)** in **PowerShell**
-
----
-
-## <img src="assets/bgo_holding.svg" class="svg-darkmode" alt="Logo" style="height: 1.7em; vertical-align: middle; margin-right: 12px;"> <img src="assets/bgo_montage.svg" class="svg-darkmode" alt="Logo" style="height: 2.0em; vertical-align: middle; margin-right: 12px;"> <span style="vertical-align: middle;">Bgo Holding</span>
-
-* 🚛 **Planning** and **coordination** of **transfer** and **delivery trips** in **Austria** & **Germany** & **Switzerland**
-
-- 🎓 **Learning** **2 CMS software products** (Profi-Tour & Cargo-Support) for the **IT migration** of one of our **furniture manufacturers**
-
-* 💻 **Collaboration & Consulting** with the **Business-Application IT** and **Dispatchers** as a **KeyUser**
-
-- 🧾 **Development of automated document solutions** (tour summary sheets, waybills) using **SQL queries**, **report designer**, and **VBA scripts**
-
-* 💁 **Cross-departmental exchange** with **transport** and **assembly partners** throughout **Austria** (business trips by car)
-
-### <a href="https://github.com/BMLZellEr/bgo_montage_und_logistik"><img src="assets/github-button-light.svg" class="svg-darkmode" alt="Logo" 
----
-
 ## 🛠️ Tech Stack & Tools
 
 <div align="center">
